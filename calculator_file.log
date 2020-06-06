@@ -1,0 +1,8 @@
+2020-06-06 13:48:56 ERROR Logging:12 - The number has to be in the range from -20 to 20.
+2020-06-06 13:49:01 INFO  Logging:10 - The first entered number is: 0.0
+2020-06-06 13:49:10 INFO  Logging:10 - The entered operation is: d
+2020-06-06 13:49:18 INFO  Logging:10 - The first entered number is: 9.0
+2020-06-06 13:49:21 INFO  Logging:10 - The entered operation is: +
+2020-06-06 13:49:25 INFO  Logging:10 - The second  entered number is: 10.0
+2020-06-06 13:49:25 INFO  Logging:10 - The result of the operation is: 19.0
+2020-06-06 13:49:30 INFO  Logging:10 - The calculator is quited
